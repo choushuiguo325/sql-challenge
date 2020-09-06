@@ -22,6 +22,7 @@ A table query "query.sql" for the 6 tables is created with following query funct
 - List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 - In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
+
 4. Bonus
 
 The SQL database is imported into Pandas using sqlalchemy in "bonus.ipynb". Then, a histogram to visualize the most common salary ranges for employees and a bar chart of average salary by title are created.
